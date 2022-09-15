@@ -1,0 +1,4 @@
+{'order 1': 1.0, 'order 2': 2.5}
+order item 1: $1.00
+order item 2: $2.50
+total = 3.50
